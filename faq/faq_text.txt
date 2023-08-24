@@ -1,4 +1,4 @@
-Error: <span class='question'>1. What is Stick Empires?</span>
+<span class='question'>1. What is Stick Empires?</span>
 
 <span class='answer'>Stick Empires is real time strategy online game (RTS) that takes place in the world of Inamorta, a mysterious, ancient world full of war. Clashing nations battle for dominance as only the greatest empires will emerge from the rubble.</span>
 
