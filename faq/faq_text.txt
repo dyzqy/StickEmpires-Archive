@@ -1,0 +1,107 @@
+Error: <span class='question'>1. What is Stick Empires?</span>
+
+<span class='answer'>Stick Empires is real time strategy online game (RTS) that takes place in the world of Inamorta, a mysterious, ancient world full of war. Clashing nations battle for dominance as only the greatest empires will emerge from the rubble.</span>
+
+ 
+
+<span class='question'>2. How do I add my friends and use the Chat system?</span>
+
+<span class='answer'>Click on your chat in the bottom right of the lobby. You will see a unique 3 digit character code next to your username.  Ask your friend for the 3 digit code and username then type them into text field beside the plus button in the chat.  Thats it! </span>
+
+
+
+<span class='question'>3. How do I start a game against one of my friends?</span>
+
+<span class='answer'>Look beside your friends name for a symbol of two crossed swords.  Click the swords and an invite to play a game will be sent to your friend.  They will have 30 seconds to accept the request, once accepted the game will begin. Note these games are considered non ranked.</span>
+
+
+
+<span class='question'>4. Do I need to install anything? what is required to play this game?</span>
+
+<span class='answer'>This is a web browser based game, meaning you do not need to install any exe files or wait for long patches and downloads.  All you need is a browser that has flash player installed and most of them already do.  If you want to make sure you have flash player installed click here http://get.adobe.com/flashplayer/</span>
+
+
+
+<span class='question'>5. Does this game cost money to play?</span>
+
+<span class='answer'>You can play unlimited games of Stick Empires for free as the Order Empire. Unlocking the Chaos Empire and armor items will require Empire Coins or Empire Coins which can be purchased.</span>
+
+
+
+<span class='question'>6. What are Empire Coins?</span>
+
+<span class='answer'>Empire Coins or Empire Coins are a virtual in game currency used to purchase items at the armory so you can customize your units.</span>
+
+
+
+<span class='question'>7. What is Gold membership and what does it get me?</span>
+
+<span class='answer'>Gold membership is a monthly subscription which unlocks premium features in the game. As a gold member you will have full access to use the Chaos Empire and all of its 9 unit types and 13 abilities/technologies. In addition New members will receive 1000 E coins as well as 300 Coins every month thereafter to spend on in game items at the armory.  New premium features are being added and changed and improved. </span>
+
+
+
+<span class='question'>8. Do armory Items give players a Game advantage over players who have not used E Coins?</span>
+
+<span class='answer'>The armory items in Stick Empires change the look and feel of your Empire through customization, however we do not believe in giving any game advantage to players who have paid vs not paid, as this is simply unfair in the gaming world. Unlocking the Chaos race does give players a more diverse Empire choice however we strive to keep both races as balanced as possible and are constantly working to achieve this.</span>
+
+
+
+<span class='question'>9. My computer and internet is slow how can I make the game run better for me?</span>
+
+<span class='answer'>Close as many programs and other browser windows as you can for the best performance.  Leaving the game window to another tab or chat will cause the game to lag for both players.</span>
+
+
+
+<span class='question'>10. Can I change my username or password?</span>
+
+<span class='answer'>Once you click on Profile you can edit your account details such as Password and Email however you can not alter your username.</span>
+
+
+
+<span class='question'>11. What is the difference between Stick Empires and Stick War and Stick Page?</span>
+
+<span class='answer'>Stick Empires can be considered the online game.  Stick War is the offline campaign mode.  Both take place in the same universe of Inamorta.  Stick Page is the associated website with multiple stick figure animations and games.</span>
+
+
+
+<span class='question'>12. How do I cancel my Gold Membership?</span>
+
+<span class='answer'>Gold memberships may be cancelled through your Paypal account.</span>
+
+
+
+<span class='question'>13. What is our support email address?</span>
+
+<span class='answer'>Any questions or problems you have may be directed to support@stickempires.com.</span>
+
+
+
+<span class='question'>How to Play FAQ's:</span>
+
+
+
+<span class='question'>1. How do I get gold and mana?</span>
+
+<span class='answer'>Select a miner and right click a Gold mine.  For Mana, Select a miner then right click your statue, your miner will begin to worship and collect mana automatically.</span>
+
+
+
+<span class='question'>2. What am I supposed to do in this game?</span>
+
+<span class='answer'>You need to destroy the enemy statue before they destroy yours.  You can do this by collecting resources which can be used to build units and research technologies and abilities.</span>
+
+
+
+<span class='question'>3. How do I research Technologies and Unlock abilities?</span>
+
+<span class='answer'>Click on the buildings inside your castle walls to display the available tech/abilities per building.  Click on the Tech/ability you want.  This will begin to research and cost you resources.  </span>
+
+
+
+<span class='question'>4. How do I use my units abilities?</span>
+
+
+
+
+
+<span class='answer'>Some Abilities are passive which means they will be used automatically. Some need to be toggled on and off. While others you will need to select the unit click the ability then cast it at the location you choose.</span>

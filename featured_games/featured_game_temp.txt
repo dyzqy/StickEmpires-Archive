@@ -1,0 +1,1 @@
+[PlayerA_name, PlayerA_rating, PlayerB_name, PlayerB_rating, PlayerA_empire, PlayerB_empire, replay_number, version]
