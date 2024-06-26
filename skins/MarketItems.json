@@ -1,0 +1,4331 @@
+[
+    {
+        "id": 84,
+        "unit": "Swordwrath",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Long Sword"
+    },
+    {
+        "id": 85,
+        "unit": "Swordwrath",
+        "name": "Club",
+        "type": 0,
+        "description": "",
+        "price": 25,
+        "displayName": "Club"
+    },
+    {
+        "id": 86,
+        "unit": "Spearton",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 87,
+        "unit": "Miner",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 88,
+        "unit": "Ninja",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 89,
+        "unit": "Ninja",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 90,
+        "unit": "FlyingCrossbowman",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 91,
+        "unit": "EnslavedGiant",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 92,
+        "unit": "Magikill",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 93,
+        "unit": "Monk",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 94,
+        "unit": "Archidon",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 95,
+        "unit": "Spearton",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 96,
+        "unit": "Spearton",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 97,
+        "unit": "Ninja",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 98,
+        "unit": "FlyingCrossbowman",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 99,
+        "unit": "Magikill",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 100,
+        "unit": "Archidon",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 101,
+        "unit": "Swordwrath",
+        "name": "Bronze Sword",
+        "type": 0,
+        "description": "",
+        "price": 40,
+        "displayName": "Samurai Sword"
+    },
+    {
+        "id": 102,
+        "unit": "Swordwrath",
+        "name": "Saladins Sword",
+        "type": 0,
+        "description": "",
+        "price": 60,
+        "displayName": "Saladins Sword"
+    },
+    {
+        "id": 103,
+        "unit": "Spearton",
+        "name": "Trident",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Trident"
+    },
+    {
+        "id": 104,
+        "unit": "Spearton",
+        "name": "Diamond",
+        "type": 0,
+        "description": "",
+        "price": 70,
+        "displayName": "Diamond"
+    },
+    {
+        "id": 105,
+        "unit": "Spearton",
+        "name": "Bronze Jaged",
+        "type": 0,
+        "description": "",
+        "price": 50,
+        "displayName": "Bronze Jaged"
+    },
+    {
+        "id": 106,
+        "unit": "Spearton",
+        "name": "Golden Jaged",
+        "type": 0,
+        "description": "",
+        "price": 120,
+        "displayName": "Golden Jaged"
+    },
+    {
+        "id": 107,
+        "unit": "EnslavedGiant",
+        "name": "Wooden Bag",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Wooden Bag"
+    },
+    {
+        "id": 108,
+        "unit": "Magikill",
+        "name": "Purple Staff",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Purple Staff"
+    },
+    {
+        "id": 109,
+        "unit": "Magikill",
+        "name": "Crystal Staff",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Crystal Staff"
+    },
+    {
+        "id": 110,
+        "unit": "Monk",
+        "name": "Golden Staff",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Golden Staff"
+    },
+    {
+        "id": 111,
+        "unit": "Monk",
+        "name": "Crystal Staff",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Crystal Staff"
+    },
+    {
+        "id": 112,
+        "unit": "Spearton",
+        "name": "Lion Sheild",
+        "type": 2,
+        "description": "",
+        "price": 400,
+        "displayName": "Lion Sheild"
+    },
+    {
+        "id": 113,
+        "unit": "Spearton",
+        "name": "Spider Shield",
+        "type": 2,
+        "description": "",
+        "price": 175,
+        "displayName": "Spider Shield"
+    },
+    {
+        "id": 114,
+        "unit": "Spearton",
+        "name": "Scorpion Shield",
+        "type": 2,
+        "description": "",
+        "price": 125,
+        "displayName": "Scorpion Shield"
+    },
+    {
+        "id": 115,
+        "unit": "Spearton",
+        "name": "HedgeHog Helmet",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "HedgeHog Helmet"
+    },
+    {
+        "id": 116,
+        "unit": "Spearton",
+        "name": "Wing Helmet",
+        "type": 1,
+        "description": "",
+        "price": 50,
+        "displayName": "Wing Helmet"
+    },
+    {
+        "id": 117,
+        "unit": "Ninja",
+        "name": "Tribal Ninja",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Tribal Ninja"
+    },
+    {
+        "id": 118,
+        "unit": "Ninja",
+        "name": "Visor Ninja",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Visor Ninja"
+    },
+    {
+        "id": 119,
+        "unit": "Magikill",
+        "name": "Gold Hat",
+        "type": 1,
+        "description": "",
+        "price": 100,
+        "displayName": "Gold Hat"
+    },
+    {
+        "id": 120,
+        "unit": "Magikill",
+        "name": "Belt Hat",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Belt Hat"
+    },
+    {
+        "id": 121,
+        "unit": "Archidon",
+        "name": "Silver Archidon",
+        "type": 2,
+        "description": "",
+        "price": 100,
+        "displayName": "Silver Archidon"
+    },
+    {
+        "id": 122,
+        "unit": "Miner",
+        "name": "Sharp Bag",
+        "type": 2,
+        "description": "",
+        "price": 75,
+        "displayName": "Sharp Bag"
+    },
+    {
+        "id": 123,
+        "unit": "FlyingCrossbowman",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 124,
+        "unit": "Magikill",
+        "name": "Grey Beard",
+        "type": 2,
+        "description": "",
+        "price": 50,
+        "displayName": "Grey Beard"
+    },
+    {
+        "id": 125,
+        "unit": "Cat",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 126,
+        "unit": "Cat",
+        "name": "Blue Eyes",
+        "type": 0,
+        "description": "",
+        "price": 50,
+        "displayName": "Blue Eyes"
+    },
+    {
+        "id": 127,
+        "unit": "Cat",
+        "name": "Evil Crawler",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Evil Crawler"
+    },
+    {
+        "id": 128,
+        "unit": "Bomber",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 129,
+        "unit": "Knight",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 130,
+        "unit": "Knight",
+        "name": "Boot Axe",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Boot Axe"
+    },
+    {
+        "id": 131,
+        "unit": "Knight",
+        "name": "Spikey Axe",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Spikey Axe"
+    },
+    {
+        "id": 132,
+        "unit": "Knight",
+        "name": "Chain Axe",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Chain Axe"
+    },
+    {
+        "id": 133,
+        "unit": "Giant",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 134,
+        "unit": "Giant",
+        "name": "Skull Mace",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Skull Mace"
+    },
+    {
+        "id": 135,
+        "unit": "SkelatalMage",
+        "name": "Twig Staff",
+        "type": 0,
+        "description": "",
+        "price": 50,
+        "displayName": "Twig Staff"
+    },
+    {
+        "id": 136,
+        "unit": "Bomber",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 137,
+        "unit": "Dead",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 138,
+        "unit": "Knight",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 139,
+        "unit": "Knight",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 140,
+        "unit": "Knight",
+        "name": "Skull Shield",
+        "type": 2,
+        "description": "",
+        "price": 300,
+        "displayName": "Skull Shield"
+    },
+    {
+        "id": 141,
+        "unit": "Wingadon",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 142,
+        "unit": "Medusa",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 143,
+        "unit": "Medusa",
+        "name": "red cape",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "red cape"
+    },
+    {
+        "id": 144,
+        "unit": "SkelatalMage",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 145,
+        "unit": "SkelatalMage",
+        "name": "Dragon Head",
+        "type": 1,
+        "description": "",
+        "price": 100,
+        "displayName": "Dragon Head"
+    },
+    {
+        "id": 146,
+        "unit": "Wingadon",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 147,
+        "unit": "Medusa",
+        "name": "More Crowny",
+        "type": 2,
+        "description": "",
+        "price": 200,
+        "displayName": "More Crowny"
+    },
+    {
+        "id": 148,
+        "unit": "Medusa",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 149,
+        "unit": "Miner",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 150,
+        "unit": "Spearton",
+        "name": "Native Spaer",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Native Spaer"
+    },
+    {
+        "id": 151,
+        "unit": "Spearton",
+        "name": "Samurai Spear",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Samurai Spear"
+    },
+    {
+        "id": 152,
+        "unit": "Ninja",
+        "name": "Knifed Pole",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Knifed Pole"
+    },
+    {
+        "id": 153,
+        "unit": "Ninja",
+        "name": "Blue Ninja",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Blue Ninja"
+    },
+    {
+        "id": 154,
+        "unit": "Ninja",
+        "name": "Red Ninja",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Red Ninja"
+    },
+    {
+        "id": 155,
+        "unit": "Ninja",
+        "name": "Grey Ninja",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Grey Ninja"
+    },
+    {
+        "id": 156,
+        "unit": "Ninja",
+        "name": "Gold Ninja",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Gold Ninja"
+    },
+    {
+        "id": 157,
+        "unit": "Archidon",
+        "name": "Basic Helmet",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Basic Helmet"
+    },
+    {
+        "id": 158,
+        "unit": "Spearton",
+        "name": "Native Shield",
+        "type": 2,
+        "description": "",
+        "price": 200,
+        "displayName": "Native Shield"
+    },
+    {
+        "id": 159,
+        "unit": "Spearton",
+        "name": "Native Spearton",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Native Spearton"
+    },
+    {
+        "id": 160,
+        "unit": "Spearton",
+        "name": "Gold Wood Shield",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Gold Wood Shield"
+    },
+    {
+        "id": 161,
+        "unit": "Spearton",
+        "name": "Samurai",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Samurai"
+    },
+    {
+        "id": 162,
+        "unit": "FlyingCrossbowman",
+        "name": "Basic Helmet",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Basic Helmet"
+    },
+    {
+        "id": 163,
+        "unit": "FlyingCrossbowman",
+        "name": "Dark Wing",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Dark Wing"
+    },
+    {
+        "id": 164,
+        "unit": "Knight",
+        "name": "Skull Axe",
+        "type": 0,
+        "description": "",
+        "price": 300,
+        "displayName": "Skull Axe"
+    },
+    {
+        "id": 165,
+        "unit": "Knight",
+        "name": "Orc Weapon",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Orc Weapon"
+    },
+    {
+        "id": 166,
+        "unit": "Giant",
+        "name": "Mace",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Mace"
+    },
+    {
+        "id": 167,
+        "unit": "Giant",
+        "name": "Hammer",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Hammer"
+    },
+    {
+        "id": 168,
+        "unit": "Bomber",
+        "name": "Armored Helmet",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Armored Helmet"
+    },
+    {
+        "id": 169,
+        "unit": "Dead",
+        "name": "Wrapped Helmet",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Wrapped Helmet"
+    },
+    {
+        "id": 170,
+        "unit": "Knight",
+        "name": "Bone Shield",
+        "type": 2,
+        "description": "",
+        "price": 300,
+        "displayName": "Bone Shield"
+    },
+    {
+        "id": 171,
+        "unit": "Knight",
+        "name": "Skull Helmet",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Skull Helmet"
+    },
+    {
+        "id": 172,
+        "unit": "Knight",
+        "name": "Wooden Shield",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Wooden Shield"
+    },
+    {
+        "id": 173,
+        "unit": "Knight",
+        "name": "Shard Helmet",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Shard Helmet"
+    },
+    {
+        "id": 174,
+        "unit": "Wingadon",
+        "name": "Basic Helmet",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Basic Helmet"
+    },
+    {
+        "id": 175,
+        "unit": "Wingadon",
+        "name": "Armored Sleve",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Armored Sleve"
+    },
+    {
+        "id": 176,
+        "unit": "SkelatalMage",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 177,
+        "unit": "Swordwrath",
+        "name": "Elvish Sword",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Elvish Sword"
+    },
+    {
+        "id": 178,
+        "unit": "Spearton",
+        "name": "Hockey Stick",
+        "type": 0,
+        "description": "",
+        "price": 350,
+        "displayName": "Hockey Stick"
+    },
+    {
+        "id": 179,
+        "unit": "Spearton",
+        "name": "Dark Samurai Spear",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Dark Samurai Spear"
+    },
+    {
+        "id": 180,
+        "unit": "Archidon",
+        "name": "Samurai Archer",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Samurai Archer"
+    },
+    {
+        "id": 181,
+        "unit": "Spearton",
+        "name": "Goal Pads Shield",
+        "type": 2,
+        "description": "",
+        "price": 350,
+        "displayName": "Goal Pads Shield"
+    },
+    {
+        "id": 182,
+        "unit": "Spearton",
+        "name": "Red Goalie",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Red Goalie"
+    },
+    {
+        "id": 183,
+        "unit": "Spearton",
+        "name": "Goat Shield",
+        "type": 2,
+        "description": "",
+        "price": 200,
+        "displayName": "Goat Shield"
+    },
+    {
+        "id": 184,
+        "unit": "Spearton",
+        "name": "Samurai Mask",
+        "type": 1,
+        "description": "",
+        "price": 225,
+        "displayName": "Samurai Mask"
+    },
+    {
+        "id": 185,
+        "unit": "Miner",
+        "name": "Trolley",
+        "type": 2,
+        "description": "",
+        "price": 250,
+        "displayName": "Trolley"
+    },
+    {
+        "id": 186,
+        "unit": "Magikill",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 187,
+        "unit": "Swordwrath",
+        "name": "Copper Sword",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Copper Sword"
+    },
+    {
+        "id": 188,
+        "unit": "Swordwrath",
+        "name": "Steel Sword",
+        "type": 0,
+        "description": "",
+        "price": 50,
+        "displayName": "Steel Sword"
+    },
+    {
+        "id": 189,
+        "unit": "Cat",
+        "name": "Xenomorph",
+        "type": 0,
+        "description": "",
+        "price": 600,
+        "displayName": "Xenomorph"
+    },
+    {
+        "id": 190,
+        "unit": "Knight",
+        "name": "Cleaver",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Cleaver"
+    },
+    {
+        "id": 191,
+        "unit": "Knight",
+        "name": "Rusted Axe",
+        "type": 0,
+        "description": "",
+        "price": 250,
+        "displayName": "Rusted Axe"
+    },
+    {
+        "id": 192,
+        "unit": "Knight",
+        "name": "Rusted Shield",
+        "type": 2,
+        "description": "",
+        "price": 250,
+        "displayName": "Rusted Shield"
+    },
+    {
+        "id": 193,
+        "unit": "Knight",
+        "name": "Pig Shield",
+        "type": 2,
+        "description": "",
+        "price": 350,
+        "displayName": "Pig Shield"
+    },
+    {
+        "id": 194,
+        "unit": "Bomber",
+        "name": "Scientist",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Scientist"
+    },
+    {
+        "id": 195,
+        "unit": "Bomber",
+        "name": "Round Bomb",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Round Bomb"
+    },
+    {
+        "id": 196,
+        "unit": "Knight",
+        "name": "Rust Helmet",
+        "type": 1,
+        "description": "",
+        "price": 250,
+        "displayName": "Rust Helmet"
+    },
+    {
+        "id": 197,
+        "unit": "Knight",
+        "name": "Chef Hat",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Chef Hat"
+    },
+    {
+        "id": 198,
+        "unit": "Knight",
+        "name": "Football Helmet",
+        "type": 1,
+        "description": "",
+        "price": 400,
+        "displayName": "Football Helmet"
+    },
+    {
+        "id": 199,
+        "unit": "Spearton",
+        "name": "Gladiator Helmet",
+        "type": 1,
+        "description": "",
+        "price": 600,
+        "displayName": "Gladiator Helmet"
+    },
+    {
+        "id": 200,
+        "unit": "Spearton",
+        "name": "Roman Shield",
+        "type": 2,
+        "description": "",
+        "price": 450,
+        "displayName": "Roman Shield"
+    },
+    {
+        "id": 201,
+        "unit": "Spearton",
+        "name": "Greek Shield",
+        "type": 2,
+        "description": "",
+        "price": 350,
+        "displayName": "Greek Shield"
+    },
+    {
+        "id": 202,
+        "unit": "Spearton",
+        "name": "Gold Helmet",
+        "type": 1,
+        "description": "",
+        "price": 250,
+        "displayName": "Gold Helmet"
+    },
+    {
+        "id": 203,
+        "unit": "Magikill",
+        "name": "Silly Beard",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Silly Beard"
+    },
+    {
+        "id": 204,
+        "unit": "Knight",
+        "name": "Predator Axe",
+        "type": 0,
+        "description": "",
+        "price": 375,
+        "displayName": "Predator Axe"
+    },
+    {
+        "id": 205,
+        "unit": "Knight",
+        "name": "Baton",
+        "type": 0,
+        "description": "",
+        "price": 300,
+        "displayName": "Baton"
+    },
+    {
+        "id": 206,
+        "unit": "Knight",
+        "name": "Riot Shield",
+        "type": 2,
+        "description": "",
+        "price": 450,
+        "displayName": "Riot Shield"
+    },
+    {
+        "id": 207,
+        "unit": "Knight",
+        "name": "Gas Mask",
+        "type": 1,
+        "description": "",
+        "price": 450,
+        "displayName": "Gas Mask"
+    },
+    {
+        "id": 208,
+        "unit": "Knight",
+        "name": "Predator Helmet",
+        "type": 1,
+        "description": "",
+        "price": 550,
+        "displayName": "Predator Helmet"
+    },
+    {
+        "id": 209,
+        "unit": "Knight",
+        "name": "Fireman Axe",
+        "type": 0,
+        "description": "",
+        "price": 250,
+        "displayName": "Fireman Axe"
+    },
+    {
+        "id": 210,
+        "unit": "Knight",
+        "name": "Fireman Shield",
+        "type": 2,
+        "description": "",
+        "price": 375,
+        "displayName": "Fireman Shield"
+    },
+    {
+        "id": 211,
+        "unit": "Knight",
+        "name": "Fireman",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Fireman"
+    },
+    {
+        "id": 212,
+        "unit": "Dead",
+        "name": "Frankenstein",
+        "type": 1,
+        "description": "",
+        "price": 500,
+        "displayName": "Frankenstein"
+    },
+    {
+        "id": 213,
+        "unit": "Swordwrath",
+        "name": "Frying Pan",
+        "type": 0,
+        "description": "",
+        "price": 250,
+        "displayName": "Frying Pan"
+    },
+    {
+        "id": 214,
+        "unit": "Swordwrath",
+        "name": "Twin Blades",
+        "type": 0,
+        "description": "",
+        "price": 600,
+        "displayName": "Twin Blades"
+    },
+    {
+        "id": 215,
+        "unit": "Swordwrath",
+        "name": "Chainsaw",
+        "type": 0,
+        "description": "",
+        "price": 550,
+        "displayName": "Chainsaw"
+    },
+    {
+        "id": 216,
+        "unit": "Miner",
+        "name": "Chaos Pickaxev",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Chaos Pickaxev"
+    },
+    {
+        "id": 217,
+        "unit": "Miner",
+        "name": "Hammer",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Hammer"
+    },
+    {
+        "id": 218,
+        "unit": "Archidon",
+        "name": "Sniper Hat",
+        "type": 1,
+        "description": "",
+        "price": 250,
+        "displayName": "Sniper Hat"
+    },
+    {
+        "id": 219,
+        "unit": "Ninja",
+        "name": "Blue Mask",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Blue Mask"
+    },
+    {
+        "id": 220,
+        "unit": "Ninja",
+        "name": "Yellow Mask",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Yellow Mask"
+    },
+    {
+        "id": 221,
+        "unit": "Ninja",
+        "name": "Green Dude Purple",
+        "type": 1,
+        "description": "",
+        "price": 400,
+        "displayName": "Green Dude Purple"
+    },
+    {
+        "id": 222,
+        "unit": "Ninja",
+        "name": "Green Dude Blue",
+        "type": 1,
+        "description": "",
+        "price": 400,
+        "displayName": "Green Dude Blue"
+    },
+    {
+        "id": 223,
+        "unit": "Ninja",
+        "name": "Green Dude Orange",
+        "type": 1,
+        "description": "",
+        "price": 400,
+        "displayName": "Green Dude Orange"
+    },
+    {
+        "id": 224,
+        "unit": "Ninja",
+        "name": "Green Dude Red",
+        "type": 1,
+        "description": "",
+        "price": 400,
+        "displayName": "Green Dude Red"
+    },
+    {
+        "id": 225,
+        "unit": "EnslavedGiant",
+        "name": "Bones Bag",
+        "type": 0,
+        "description": "",
+        "price": 300,
+        "displayName": "Bones Bag"
+    },
+    {
+        "id": 226,
+        "unit": "ChaosMiner",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 227,
+        "unit": "ChaosMiner",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 228,
+        "unit": "Archidon",
+        "name": "Robin Hood Hat",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Robin Hood Hat"
+    },
+    {
+        "id": 229,
+        "unit": "Spearton",
+        "name": "Marine Helmet",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Marine Helmet"
+    },
+    {
+        "id": 230,
+        "unit": "Spearton",
+        "name": "Dark Wood Shield",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Dark Wood Shield"
+    },
+    {
+        "id": 231,
+        "unit": "Spearton",
+        "name": "Medieval Helmet",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Medieval Helmet"
+    },
+    {
+        "id": 232,
+        "unit": "Spearton",
+        "name": "Medieval Shield",
+        "type": 2,
+        "description": "",
+        "price": 175,
+        "displayName": "Medieval Shield"
+    },
+    {
+        "id": 233,
+        "unit": "Spearton",
+        "name": "Brown Shield",
+        "type": 2,
+        "description": "",
+        "price": 100,
+        "displayName": "Brown Shield"
+    },
+    {
+        "id": 234,
+        "unit": "FlyingCrossbowman",
+        "name": "Blue Wing",
+        "type": 2,
+        "description": "",
+        "price": 350,
+        "displayName": "Blue Wing"
+    },
+    {
+        "id": 235,
+        "unit": "Swordwrath",
+        "name": "Pirate Sword",
+        "type": 0,
+        "description": "",
+        "price": 275,
+        "displayName": "Pirate Sword"
+    },
+    {
+        "id": 236,
+        "unit": "Swordwrath",
+        "name": "Fantasy Sword",
+        "type": 0,
+        "description": "",
+        "price": 350,
+        "displayName": "Fantasy Sword"
+    },
+    {
+        "id": 237,
+        "unit": "Bomber",
+        "name": "Red Bike Helmet",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Red Bike Helmet"
+    },
+    {
+        "id": 238,
+        "unit": "Knight",
+        "name": "Top Hat",
+        "type": 1,
+        "description": "",
+        "price": 400,
+        "displayName": "Top Hat"
+    },
+    {
+        "id": 239,
+        "unit": "Wingadon",
+        "name": "Brown Hat",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Brown Hat"
+    },
+    {
+        "id": 240,
+        "unit": "Swordwrath",
+        "name": "Crowbar",
+        "type": 0,
+        "description": "",
+        "price": 300,
+        "displayName": "Crowbar"
+    },
+    {
+        "id": 241,
+        "unit": "Ninja",
+        "name": "Katana",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Katana"
+    },
+    {
+        "id": 242,
+        "unit": "Ninja",
+        "name": "Ninja Scythe",
+        "type": 2,
+        "description": "",
+        "price": 200,
+        "displayName": "Ninja Scythe"
+    },
+    {
+        "id": 243,
+        "unit": "Ninja",
+        "name": "Ninja Claws",
+        "type": 2,
+        "description": "",
+        "price": 250,
+        "displayName": "Ninja Claws"
+    },
+    {
+        "id": 244,
+        "unit": "FlyingCrossbowman",
+        "name": "Leather Quiver",
+        "type": 0,
+        "description": "",
+        "price": 250,
+        "displayName": "Leather Quiver"
+    },
+    {
+        "id": 245,
+        "unit": "EnslavedGiant",
+        "name": "Stone Bag",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Stone Bag"
+    },
+    {
+        "id": 246,
+        "unit": "Magikill",
+        "name": "Basic Wooden Staff",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Basic Wooden Staff"
+    },
+    {
+        "id": 247,
+        "unit": "Magikill",
+        "name": "Metal Staff",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Metal Staff"
+    },
+    {
+        "id": 248,
+        "unit": "Magikill",
+        "name": "Ice Staff",
+        "type": 0,
+        "description": "",
+        "price": 300,
+        "displayName": "Ice Staff"
+    },
+    {
+        "id": 249,
+        "unit": "Magikill",
+        "name": "Dragon Staff",
+        "type": 0,
+        "description": "",
+        "price": 400,
+        "displayName": "Dragon Staff"
+    },
+    {
+        "id": 250,
+        "unit": "Monk",
+        "name": "Spellbook",
+        "type": 0,
+        "description": "",
+        "price": 350,
+        "displayName": "Spellbook"
+    },
+    {
+        "id": 251,
+        "unit": "Spearton",
+        "name": "Captain America Shield",
+        "type": 2,
+        "description": "",
+        "price": 350,
+        "displayName": "Captain America Shield"
+    },
+    {
+        "id": 252,
+        "unit": "FlyingCrossbowman",
+        "name": "Old Pilot's Helmet",
+        "type": 1,
+        "description": "",
+        "price": 250,
+        "displayName": "Old Pilot's Helmet"
+    },
+    {
+        "id": 253,
+        "unit": "FlyingCrossbowman",
+        "name": "Allbowtross Red Hat",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Allbowtross Red Hat"
+    },
+    {
+        "id": 254,
+        "unit": "FlyingCrossbowman",
+        "name": "Allbowtross Blue Hat",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Allbowtross Blue Hat"
+    },
+    {
+        "id": 255,
+        "unit": "Magikill",
+        "name": "Yoda",
+        "type": 1,
+        "description": "",
+        "price": 450,
+        "displayName": "Yoda"
+    },
+    {
+        "id": 256,
+        "unit": "Archidon",
+        "name": "Robin Hood Quiver",
+        "type": 2,
+        "description": "",
+        "price": 75,
+        "displayName": "Robin Hood Quiver"
+    },
+    {
+        "id": 257,
+        "unit": "Miner",
+        "name": "Wagon",
+        "type": 2,
+        "description": "",
+        "price": 300,
+        "displayName": "Wagon"
+    },
+    {
+        "id": 258,
+        "unit": "ChaosMiner",
+        "name": "Skull Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Skull Pickaxe"
+    },
+    {
+        "id": 259,
+        "unit": "Knight",
+        "name": "Thor Hammer",
+        "type": 0,
+        "description": "",
+        "price": 250,
+        "displayName": "Thor Hammer"
+    },
+    {
+        "id": 260,
+        "unit": "Knight",
+        "name": "Viking Axe",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Viking Axe"
+    },
+    {
+        "id": 261,
+        "unit": "SkelatalMage",
+        "name": "Scythe",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Scythe"
+    },
+    {
+        "id": 262,
+        "unit": "SkelatalMage",
+        "name": "Bone Scythe",
+        "type": 0,
+        "description": "",
+        "price": 225,
+        "displayName": "Bone Scythe"
+    },
+    {
+        "id": 263,
+        "unit": "Bomber",
+        "name": "Flash",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Flash"
+    },
+    {
+        "id": 264,
+        "unit": "Dead",
+        "name": "Jason Mask",
+        "type": 1,
+        "description": "",
+        "price": 500,
+        "displayName": "Jason Mask"
+    },
+    {
+        "id": 265,
+        "unit": "Knight",
+        "name": "Viking Shield",
+        "type": 2,
+        "description": "",
+        "price": 175,
+        "displayName": "Viking Shield"
+    },
+    {
+        "id": 266,
+        "unit": "Knight",
+        "name": "Viking Helmet",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Viking Helmet"
+    },
+    {
+        "id": 267,
+        "unit": "Wingadon",
+        "name": "Pilot's Helmet",
+        "type": 1,
+        "description": "",
+        "price": 250,
+        "displayName": "Pilot's Helmet"
+    },
+    {
+        "id": 268,
+        "unit": "Medusa",
+        "name": "Dracula Cape",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Dracula Cape"
+    },
+    {
+        "id": 269,
+        "unit": "SkelatalMage",
+        "name": "Horns",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Horns"
+    },
+    {
+        "id": 270,
+        "unit": "ChaosMiner",
+        "name": "Bone Bag",
+        "type": 2,
+        "description": "",
+        "price": 250,
+        "displayName": "Bone Bag"
+    },
+    {
+        "id": 271,
+        "unit": "ChaosMiner",
+        "name": "Bone Trolley",
+        "type": 2,
+        "description": "",
+        "price": 300,
+        "displayName": "Bone Trolley"
+    },
+    {
+        "id": 272,
+        "unit": "Medusa",
+        "name": "Jewel Crown",
+        "type": 2,
+        "description": "",
+        "price": 75,
+        "displayName": "Jewel Crown"
+    },
+    {
+        "id": 273,
+        "unit": "Knight",
+        "name": "Thor Helmet",
+        "type": 1,
+        "description": "",
+        "price": 400,
+        "displayName": "Thor Helmet"
+    },
+    {
+        "id": 274,
+        "unit": "Bomber",
+        "name": "Flask",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Flask"
+    },
+    {
+        "id": 275,
+        "unit": "Bomber",
+        "name": "C4",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "C4"
+    },
+    {
+        "id": 276,
+        "unit": "Spearton",
+        "name": "British Spear",
+        "type": 0,
+        "description": "",
+        "price": 400,
+        "displayName": "British Spear"
+    },
+    {
+        "id": 277,
+        "unit": "Ninja",
+        "name": "Spike Staff",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Spike Staff"
+    },
+    {
+        "id": 278,
+        "unit": "FlyingCrossbowman",
+        "name": "Double Wings",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Double Wings"
+    },
+    {
+        "id": 279,
+        "unit": "Miner",
+        "name": "Ancient Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Ancient Pickaxe"
+    },
+    {
+        "id": 280,
+        "unit": "Archidon",
+        "name": "Native Archer",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Native Archer"
+    },
+    {
+        "id": 281,
+        "unit": "Archidon",
+        "name": "Roman Archer",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Roman Archer"
+    },
+    {
+        "id": 282,
+        "unit": "Spearton",
+        "name": "British Shield",
+        "type": 2,
+        "description": "",
+        "price": 475,
+        "displayName": "British Shield"
+    },
+    {
+        "id": 283,
+        "unit": "FlyingCrossbowman",
+        "name": "Inferno Helmet",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Inferno Helmet"
+    },
+    {
+        "id": 284,
+        "unit": "Archidon",
+        "name": "Native Quiver",
+        "type": 2,
+        "description": "",
+        "price": 125,
+        "displayName": "Native Quiver"
+    },
+    {
+        "id": 285,
+        "unit": "FlyingCrossbowman",
+        "name": "Feather Wings",
+        "type": 2,
+        "description": "",
+        "price": 400,
+        "displayName": "Feather Wings"
+    },
+    {
+        "id": 286,
+        "unit": "Bomber",
+        "name": "Rocket",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Rocket"
+    },
+    {
+        "id": 287,
+        "unit": "ChaosMiner",
+        "name": "Shell Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Shell Pickaxe"
+    },
+    {
+        "id": 288,
+        "unit": "Knight",
+        "name": "Gold Axe",
+        "type": 0,
+        "description": "",
+        "price": 400,
+        "displayName": "Gold Axe"
+    },
+    {
+        "id": 289,
+        "unit": "Giant",
+        "name": "Bone",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Bone"
+    },
+    {
+        "id": 290,
+        "unit": "SkelatalMage",
+        "name": "Horns Staff",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Horns Staff"
+    },
+    {
+        "id": 291,
+        "unit": "Dead",
+        "name": "Scream Mask",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Scream Mask"
+    },
+    {
+        "id": 292,
+        "unit": "Knight",
+        "name": "Gold Helmet",
+        "type": 1,
+        "description": "",
+        "price": 375,
+        "displayName": "Gold Helmet"
+    },
+    {
+        "id": 293,
+        "unit": "Knight",
+        "name": "Gold Shield",
+        "type": 2,
+        "description": "",
+        "price": 375,
+        "displayName": "Gold Shield"
+    },
+    {
+        "id": 294,
+        "unit": "Knight",
+        "name": "Thor Shield",
+        "type": 2,
+        "description": "",
+        "price": 350,
+        "displayName": "Thor Shield"
+    },
+    {
+        "id": 295,
+        "unit": "Wingadon",
+        "name": "Demon Quiver",
+        "type": 2,
+        "description": "",
+        "price": 200,
+        "displayName": "Demon Quiver"
+    },
+    {
+        "id": 296,
+        "unit": "Wingadon",
+        "name": "Demon Mask",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Demon Mask"
+    },
+    {
+        "id": 297,
+        "unit": "SkelatalMage",
+        "name": "Green Helmet",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Green Helmet"
+    },
+    {
+        "id": 298,
+        "unit": "FlyingCrossbowman",
+        "name": "Inferno Wings",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Inferno Wings"
+    },
+    {
+        "id": 299,
+        "unit": "Spearton",
+        "name": "Pitchfork",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Pitchfork"
+    },
+    {
+        "id": 300,
+        "unit": "Ninja",
+        "name": "Double Edged Spear",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Double Edged Spear"
+    },
+    {
+        "id": 301,
+        "unit": "Spearton",
+        "name": "British Helmet",
+        "type": 1,
+        "description": "",
+        "price": 400,
+        "displayName": "British Helmet"
+    },
+    {
+        "id": 302,
+        "unit": "Archidon",
+        "name": "Leafy Helmet",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Leafy Helmet"
+    },
+    {
+        "id": 303,
+        "unit": "Archidon",
+        "name": "Leafy Quiver",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Leafy Quiver"
+    },
+    {
+        "id": 304,
+        "unit": "ChaosMiner",
+        "name": "Bent Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Bent Pickaxe"
+    },
+    {
+        "id": 305,
+        "unit": "Medusa",
+        "name": "Snake Cape",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Snake Cape"
+    },
+    {
+        "id": 306,
+        "unit": "Wingadon",
+        "name": "Red Quiver",
+        "type": 2,
+        "description": "",
+        "price": 250,
+        "displayName": "Red Quiver"
+    },
+    {
+        "id": 307,
+        "unit": "Spearton",
+        "name": "Leaf Helmet",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Leaf Helmet"
+    },
+    {
+        "id": 308,
+        "unit": "Spearton",
+        "name": "Leaf Shield",
+        "type": 2,
+        "description": "",
+        "price": 200,
+        "displayName": "Leaf Shield"
+    },
+    {
+        "id": 309,
+        "unit": "Ninja",
+        "name": "Leaf Ninja",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Leaf Ninja"
+    },
+    {
+        "id": 310,
+        "unit": "Ninja",
+        "name": "Japanese Mask",
+        "type": 1,
+        "description": "",
+        "price": 450,
+        "displayName": "Japanese Mask"
+    },
+    {
+        "id": 311,
+        "unit": "FlyingCrossbowman",
+        "name": "Leaf Helmet",
+        "type": 1,
+        "description": "",
+        "price": 100,
+        "displayName": "Leaf Helmet"
+    },
+    {
+        "id": 312,
+        "unit": "Spearton",
+        "name": "Leaf Spear",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Leaf Spear"
+    },
+    {
+        "id": 313,
+        "unit": "Ninja",
+        "name": "Leaf Staff",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Leaf Staff"
+    },
+    {
+        "id": 314,
+        "unit": "Magikill",
+        "name": "Leaf Wizard Staff",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Leaf Wizard Staff"
+    },
+    {
+        "id": 315,
+        "unit": "Monk",
+        "name": "Roots Wand",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Roots Wand"
+    },
+    {
+        "id": 316,
+        "unit": "Swordwrath",
+        "name": "Wooden Sword",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Wooden Sword"
+    },
+    {
+        "id": 317,
+        "unit": "Miner",
+        "name": "Roots Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Roots Pickaxe"
+    },
+    {
+        "id": 318,
+        "unit": "Miner",
+        "name": "Leaf Bag",
+        "type": 2,
+        "description": "",
+        "price": 125,
+        "displayName": "Leaf Bag"
+    },
+    {
+        "id": 319,
+        "unit": "FlyingCrossbowman",
+        "name": "Leaf Wings",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Leaf Wings"
+    },
+    {
+        "id": 320,
+        "unit": "SkelatalMage",
+        "name": "Demon Head",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Demon Head"
+    },
+    {
+        "id": 321,
+        "unit": "Cat",
+        "name": "Wolf Head",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Wolf Head"
+    },
+    {
+        "id": 322,
+        "unit": "Dead",
+        "name": "Scorpion",
+        "type": 1,
+        "description": "",
+        "price": 375,
+        "displayName": "Scorpion"
+    },
+    {
+        "id": 323,
+        "unit": "Archidon",
+        "name": "Ice Helmet",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Ice Helmet"
+    },
+    {
+        "id": 324,
+        "unit": "Archidon",
+        "name": "Ice Quiver",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Ice Quiver"
+    },
+    {
+        "id": 325,
+        "unit": "Knight",
+        "name": "Lion Head",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Lion Head"
+    },
+    {
+        "id": 326,
+        "unit": "Knight",
+        "name": "Fur Shield",
+        "type": 2,
+        "description": "",
+        "price": 350,
+        "displayName": "Fur Shield"
+    },
+    {
+        "id": 327,
+        "unit": "Knight",
+        "name": "Claw Hammer",
+        "type": 0,
+        "description": "",
+        "price": 300,
+        "displayName": "Claw Hammer"
+    },
+    {
+        "id": 328,
+        "unit": "Wingadon",
+        "name": "Vulture Sleeve",
+        "type": 2,
+        "description": "",
+        "price": 200,
+        "displayName": "Vulture Sleeve"
+    },
+    {
+        "id": 329,
+        "unit": "Wingadon",
+        "name": "Vulture Head",
+        "type": 1,
+        "description": "",
+        "price": 250,
+        "displayName": "Vulture Head"
+    },
+    {
+        "id": 330,
+        "unit": "Bomber",
+        "name": "Gazelle Mask",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Gazelle Mask"
+    },
+    {
+        "id": 331,
+        "unit": "Medusa",
+        "name": "Red Cape",
+        "type": 1,
+        "description": "",
+        "price": 325,
+        "displayName": "Red Cape"
+    },
+    {
+        "id": 332,
+        "unit": "FlyingCrossbowman",
+        "name": "Bolts",
+        "type": 0,
+        "description": "",
+        "price": 300,
+        "displayName": "Bolts"
+    },
+    {
+        "id": 333,
+        "unit": "Medusa",
+        "name": "Leopard Cape",
+        "type": 1,
+        "description": "",
+        "price": 375,
+        "displayName": "Leopard Cape"
+    },
+    {
+        "id": 334,
+        "unit": "SkelatalMage",
+        "name": "Spiked Staff",
+        "type": 0,
+        "description": "",
+        "price": 250,
+        "displayName": "Spiked Staff"
+    },
+    {
+        "id": 335,
+        "unit": "Cat",
+        "name": "Shard Head",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Shard Head"
+    },
+    {
+        "id": 336,
+        "unit": "FlyingCrossbowman",
+        "name": "Demon Sleeve",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Demon Sleeve"
+    },
+    {
+        "id": 337,
+        "unit": "FlyingCrossbowman",
+        "name": "Demon Helmet",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Demon Helmet"
+    },
+    {
+        "id": 338,
+        "unit": "FlyingCrossbowman",
+        "name": "Demon Wings",
+        "type": 2,
+        "description": "",
+        "price": 225,
+        "displayName": "Demon Wings"
+    },
+    {
+        "id": 339,
+        "unit": "Medusa",
+        "name": "Ice Cape",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Ice Cape"
+    },
+    {
+        "id": 340,
+        "unit": "Ninja",
+        "name": "Bamboo",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Bamboo"
+    },
+    {
+        "id": 341,
+        "unit": "ChaosMiner",
+        "name": "Shard Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 50,
+        "displayName": "Shard Pickaxe"
+    },
+    {
+        "id": 342,
+        "unit": "Spearton",
+        "name": "Ice Speartan Helmet",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Ice Speartan Helmet"
+    },
+    {
+        "id": 343,
+        "unit": "Spearton",
+        "name": "Ice Shield",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Ice Shield"
+    },
+    {
+        "id": 344,
+        "unit": "Spearton",
+        "name": "Ice Spear",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Ice Spear"
+    },
+    {
+        "id": 345,
+        "unit": "Swordwrath",
+        "name": "Ice Sword",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Ice Sword"
+    },
+    {
+        "id": 346,
+        "unit": "Giant",
+        "name": "Anglar Fish Club",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Anglar Fish Club"
+    },
+    {
+        "id": 347,
+        "unit": "Miner",
+        "name": "Ice Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Ice Pickaxe"
+    },
+    {
+        "id": 348,
+        "unit": "Miner",
+        "name": "Ice Bag",
+        "type": 2,
+        "description": "",
+        "price": 125,
+        "displayName": "Ice Bag"
+    },
+    {
+        "id": 349,
+        "unit": "Ninja",
+        "name": "Ice Ninja Staff",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Ice Ninja Staff"
+    },
+    {
+        "id": 350,
+        "unit": "Ninja",
+        "name": "Ice Ninja Head",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Ice Ninja Head"
+    },
+    {
+        "id": 351,
+        "unit": "Magikill",
+        "name": "Ice Staff 2",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Ice Staff 2"
+    },
+    {
+        "id": 352,
+        "unit": "Magikill",
+        "name": "Ice Beard",
+        "type": 2,
+        "description": "",
+        "price": 75,
+        "displayName": "Ice Beard"
+    },
+    {
+        "id": 353,
+        "unit": "Magikill",
+        "name": "Ice Hat",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Ice Hat"
+    },
+    {
+        "id": 354,
+        "unit": "FlyingCrossbowman",
+        "name": "Ice Wing",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Ice Wing"
+    },
+    {
+        "id": 355,
+        "unit": "Magikill",
+        "name": "flame",
+        "type": 0,
+        "description": "",
+        "price": 700,
+        "displayName": "flame"
+    },
+    {
+        "id": 356,
+        "unit": "Fire Element",
+        "name": "Red Baseball WaterHat",
+        "type": 1,
+        "description": "",
+        "price": 50,
+        "displayName": "Red Baseball WaterHat"
+    },
+    {
+        "id": 357,
+        "unit": "Fire Element",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 358,
+        "unit": "Earth Element",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 359,
+        "unit": "Water Element",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 360,
+        "unit": "Air Element",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 361,
+        "unit": "Hurricane Element",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 362,
+        "unit": "Lava Element",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 363,
+        "unit": "Scorpion Element",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 364,
+        "unit": "Hurricane Element",
+        "name": "Default",
+        "type": 0,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 365,
+        "unit": "Chrome Element",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 366,
+        "unit": "Scorpion Element",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 100,
+        "displayName": "Default"
+    },
+    {
+        "id": 367,
+        "unit": "Lava Element",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 368,
+        "unit": "Miner Element",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 369,
+        "unit": "Lava Element",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 370,
+        "unit": "Miner Element",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 371,
+        "unit": "Air Element",
+        "name": "Balloons AirHat",
+        "type": 1,
+        "description": "",
+        "price": 500,
+        "displayName": "Balloons AirHat"
+    },
+    {
+        "id": 372,
+        "unit": "Miner Element",
+        "name": "Digger Crabbody",
+        "type": 1,
+        "description": "",
+        "price": 250,
+        "displayName": "Digger Crabbody"
+    },
+    {
+        "id": 373,
+        "unit": "Miner Element",
+        "name": "Digger Crabhead",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Digger Crabhead"
+    },
+    {
+        "id": 374,
+        "unit": "Chrome Element",
+        "name": "White Shell ChromeHead",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "White Shell ChromeHead"
+    },
+    {
+        "id": 375,
+        "unit": "Hurricane Element",
+        "name": "Cyborg HurricaneHead",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Cyborg HurricaneHead"
+    },
+    {
+        "id": 376,
+        "unit": "Scorpion Element",
+        "name": "Big Jaw ScorpionDress",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Big Jaw ScorpionDress"
+    },
+    {
+        "id": 377,
+        "unit": "Earth Element",
+        "name": "Army EarthHat",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Army EarthHat"
+    },
+    {
+        "id": 378,
+        "unit": "Water Element",
+        "name": "Captain WaterHat",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Captain WaterHat"
+    },
+    {
+        "id": 379,
+        "unit": "Hurricane Element",
+        "name": "Wood",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Wood"
+    },
+    {
+        "id": 380,
+        "unit": "Scorpion Element",
+        "name": "Big Jaw ScorpionStinger",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Big Jaw ScorpionStinger"
+    },
+    {
+        "id": 381,
+        "unit": "Miner Element",
+        "name": "Wood Crabbody",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Wood Crabbody"
+    },
+    {
+        "id": 382,
+        "unit": "Miner Element",
+        "name": "Wood Crabhead",
+        "type": 2,
+        "description": "",
+        "price": 125,
+        "displayName": "Wood Crabhead"
+    },
+    {
+        "id": 383,
+        "unit": "Fire Element",
+        "name": "Fireman FireHat",
+        "type": 1,
+        "description": "",
+        "price": 100,
+        "displayName": "Fireman FireHat"
+    },
+    {
+        "id": 384,
+        "unit": "Earth Element",
+        "name": "Viking EarthHat",
+        "type": 1,
+        "description": "",
+        "price": 100,
+        "displayName": "Viking EarthHat"
+    },
+    {
+        "id": 385,
+        "unit": "Earth Element",
+        "name": "Branches EarthHat",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Branches EarthHat"
+    },
+    {
+        "id": 386,
+        "unit": "Water Element",
+        "name": "Octopus WaterHat",
+        "type": 1,
+        "description": "",
+        "price": 600,
+        "displayName": "Octopus WaterHat"
+    },
+    {
+        "id": 387,
+        "unit": "Air Element",
+        "name": "Tallhat AirHat",
+        "type": 1,
+        "description": "",
+        "price": 550,
+        "displayName": "Tallhat AirHat"
+    },
+    {
+        "id": 388,
+        "unit": "Hurricane Element",
+        "name": "Dragon HurricaneHead",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Dragon HurricaneHead"
+    },
+    {
+        "id": 389,
+        "unit": "Hurricane Element",
+        "name": "Dragon",
+        "type": 0,
+        "description": "",
+        "price": 50,
+        "displayName": "Dragon"
+    },
+    {
+        "id": 390,
+        "unit": "Chrome Element",
+        "name": "Blue Samurail ChromeHead",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Blue Samurail ChromeHead"
+    },
+    {
+        "id": 391,
+        "unit": "Miner Element",
+        "name": "Turtle Crabbody",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Turtle Crabbody"
+    },
+    {
+        "id": 392,
+        "unit": "Miner Element",
+        "name": "Turtle Crabhead",
+        "type": 2,
+        "description": "",
+        "price": 100,
+        "displayName": "Turtle Crabhead"
+    },
+    {
+        "id": 393,
+        "unit": "EnslavedGiant",
+        "name": "Ice Giant Bag",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Ice Giant Bag"
+    },
+    {
+        "id": 394,
+        "unit": "ChaosMiner",
+        "name": "Red Chaos Miner Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Red Chaos Miner Pickaxe"
+    },
+    {
+        "id": 395,
+        "unit": "ChaosMiner",
+        "name": "Red Chaos Miner Bag",
+        "type": 2,
+        "description": "",
+        "price": 100,
+        "displayName": "Red Chaos Miner Bag"
+    },
+    {
+        "id": 396,
+        "unit": "Fire Element",
+        "name": "Sheriff FireHat",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Sheriff FireHat"
+    },
+    {
+        "id": 397,
+        "unit": "Earth Element",
+        "name": "Venus EarthHat",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Venus EarthHat"
+    },
+    {
+        "id": 398,
+        "unit": "Water Element",
+        "name": "Pirate WaterHat",
+        "type": 1,
+        "description": "",
+        "price": 60,
+        "displayName": "Pirate WaterHat"
+    },
+    {
+        "id": 399,
+        "unit": "Air Element",
+        "name": "Green Baseball AirHat",
+        "type": 1,
+        "description": "",
+        "price": 50,
+        "displayName": "Green Baseball AirHat"
+    },
+    {
+        "id": 400,
+        "unit": "Chrome Element",
+        "name": "Black Skull ChromeHead",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Black Skull ChromeHead"
+    },
+    {
+        "id": 401,
+        "unit": "Scorpion Element",
+        "name": "Halo ScorpionStinger",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Halo ScorpionStinger"
+    },
+    {
+        "id": 402,
+        "unit": "Scorpion Element",
+        "name": "Halo ScorpionDress",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Halo ScorpionDress"
+    },
+    {
+        "id": 403,
+        "unit": "Knight",
+        "name": "Red Knight Helmet",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Red Knight Helmet"
+    },
+    {
+        "id": 404,
+        "unit": "Knight",
+        "name": "Red Knight Shield",
+        "type": 2,
+        "description": "",
+        "price": 200,
+        "displayName": "Red Knight Shield"
+    },
+    {
+        "id": 405,
+        "unit": "Knight",
+        "name": "Red Knight Axe",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Red Knight Axe"
+    },
+    {
+        "id": 406,
+        "unit": "Air Element",
+        "name": "Marionette AirHat",
+        "type": 1,
+        "description": "",
+        "price": 600,
+        "displayName": "Marionette AirHat"
+    },
+    {
+        "id": 407,
+        "unit": "Chrome Element",
+        "name": "Red Samurail Mask ChromeHead",
+        "type": 1,
+        "description": "",
+        "price": 325,
+        "displayName": "Red Samurail Mask ChromeHead"
+    },
+    {
+        "id": 408,
+        "unit": "Scorpion Element",
+        "name": "Wood ScorpionDress",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Wood ScorpionDress"
+    },
+    {
+        "id": 409,
+        "unit": "Water Element",
+        "name": "Diver WaterHat",
+        "type": 1,
+        "description": "",
+        "price": 275,
+        "displayName": "Diver WaterHat"
+    },
+    {
+        "id": 410,
+        "unit": "Scorpion Element",
+        "name": "Wood ScorpionStinger",
+        "type": 0,
+        "description": "",
+        "price": 50,
+        "displayName": "Wood ScorpionStinger"
+    },
+    {
+        "id": 411,
+        "unit": "Miner Element",
+        "name": "Rock Crabhead",
+        "type": 2,
+        "description": "",
+        "price": 125,
+        "displayName": "Rock Crabhead"
+    },
+    {
+        "id": 412,
+        "unit": "Miner Element",
+        "name": "Rock Crabbody",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Rock Crabbody"
+    },
+    {
+        "id": 413,
+        "unit": "Cat",
+        "name": "Red Crawler Head",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Red Crawler Head"
+    },
+    {
+        "id": 414,
+        "unit": "Wingadon",
+        "name": "Bark Quiver",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Bark Quiver"
+    },
+    {
+        "id": 415,
+        "unit": "Giant",
+        "name": "Red Bat",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Red Bat"
+    },
+    {
+        "id": 416,
+        "unit": "Air Element",
+        "name": "Italian AirHat",
+        "type": 1,
+        "description": "",
+        "price": 250,
+        "displayName": "Italian AirHat"
+    },
+    {
+        "id": 417,
+        "unit": "Hurricane Element",
+        "name": "Wood HurricaneHead",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Wood HurricaneHead"
+    },
+    {
+        "id": 418,
+        "unit": "Hurricane Element",
+        "name": "Ball HurricaneHead",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Ball HurricaneHead"
+    },
+    {
+        "id": 419,
+        "unit": "Chrome Element",
+        "name": "Red Shell ChromeHead",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Red Shell ChromeHead"
+    },
+    {
+        "id": 420,
+        "unit": "Chrome Element",
+        "name": "Purple Skull ChromeHead",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Purple Skull ChromeHead"
+    },
+    {
+        "id": 421,
+        "unit": "Chrome Element",
+        "name": "Gold Samurail ChromeHead",
+        "type": 1,
+        "description": "",
+        "price": 400,
+        "displayName": "Gold Samurail ChromeHead"
+    },
+    {
+        "id": 422,
+        "unit": "Water Element",
+        "name": "Jester WaterHead",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Jester WaterHead"
+    },
+    {
+        "id": 423,
+        "unit": "Earth Element",
+        "name": "Detective EarthHat",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Detective EarthHat"
+    },
+    {
+        "id": 424,
+        "unit": "Fire Element",
+        "name": "Detective FireHat",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Detective FireHat"
+    },
+    {
+        "id": 425,
+        "unit": "Hurricane Element",
+        "name": "Cyborg",
+        "type": 0,
+        "description": "",
+        "price": 60,
+        "displayName": "Cyborg"
+    },
+    {
+        "id": 426,
+        "unit": "Hurricane Element",
+        "name": "Ball",
+        "type": 0,
+        "description": "",
+        "price": 70,
+        "displayName": "Ball"
+    },
+    {
+        "id": 427,
+        "unit": "Lava Element",
+        "name": "Dragon",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Dragon"
+    },
+    {
+        "id": 428,
+        "unit": "Lava Element",
+        "name": "Long",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Long"
+    },
+    {
+        "id": 429,
+        "unit": "Lava Element",
+        "name": "Alien",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Alien"
+    },
+    {
+        "id": 430,
+        "unit": "Knight",
+        "name": "Turtle Axe",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Turtle Axe"
+    },
+    {
+        "id": 431,
+        "unit": "Knight",
+        "name": "Turtle Helmet",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Turtle Helmet"
+    },
+    {
+        "id": 432,
+        "unit": "Knight",
+        "name": "Turtle Shield",
+        "type": 2,
+        "description": "",
+        "price": 200,
+        "displayName": "Turtle Shield"
+    },
+    {
+        "id": 433,
+        "unit": "Hurricane Element",
+        "name": "Beast HurricaneHead",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Beast HurricaneHead"
+    },
+    {
+        "id": 434,
+        "unit": "Hurricane Element",
+        "name": "Beast",
+        "type": 0,
+        "description": "",
+        "price": 50,
+        "displayName": "Beast"
+    },
+    {
+        "id": 435,
+        "unit": "Fire Element",
+        "name": "Gas FireHat",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Gas FireHat"
+    },
+    {
+        "id": 436,
+        "unit": "Earth Element",
+        "name": "Wooden Mask",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Wooden Mask"
+    },
+    {
+        "id": 437,
+        "unit": "Water Element",
+        "name": "Snorkel WaterHat",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Snorkel WaterHat"
+    },
+    {
+        "id": 438,
+        "unit": "Chrome Element",
+        "name": "Ice Crown ChromeHead",
+        "type": 1,
+        "description": "",
+        "price": 50,
+        "displayName": "Ice Crown ChromeHead"
+    },
+    {
+        "id": 439,
+        "unit": "Spearton",
+        "name": "Marine Shield",
+        "type": 2,
+        "description": "",
+        "price": 350,
+        "displayName": "Marine Shield"
+    },
+    {
+        "id": 440,
+        "unit": "Firestorm Element",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 441,
+        "unit": "Firestorm Element",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 442,
+        "unit": "Air Element",
+        "name": "Astronaut",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Astronaut"
+    },
+    {
+        "id": 445,
+        "unit": "Firestorm Element",
+        "name": "Knight fireburnface",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Knight fireburnface"
+    },
+    {
+        "id": 446,
+        "unit": "Water Element",
+        "name": "Blue Baseball WaterHat",
+        "type": 1,
+        "description": "",
+        "price": 100,
+        "displayName": "Blue Baseball WaterHat"
+    },
+    {
+        "id": 447,
+        "unit": "Firestorm Element",
+        "name": "Sun fireburnface",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Sun fireburnface"
+    },
+    {
+        "id": 448,
+        "unit": "Firestorm Element",
+        "name": "Dragon fireburnface",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Dragon fireburnface"
+    },
+    {
+        "id": 449,
+        "unit": "Firestorm Element",
+        "name": "Knight bodyfireburn",
+        "type": 2,
+        "description": "",
+        "price": 75,
+        "displayName": "Knight bodyfireburn"
+    },
+    {
+        "id": 450,
+        "unit": "Firestorm Element",
+        "name": "Sun bodyfireburn",
+        "type": 2,
+        "description": "",
+        "price": 125,
+        "displayName": "Sun bodyfireburn"
+    },
+    {
+        "id": 451,
+        "unit": "Firestorm Element",
+        "name": "dragon bodyfireburn",
+        "type": 2,
+        "description": "",
+        "price": 300,
+        "displayName": "dragon bodyfireburn"
+    },
+    {
+        "id": 452,
+        "unit": "EnslavedGiant",
+        "name": "Leaf Bag",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Leaf Bag"
+    },
+    {
+        "id": 453,
+        "unit": "Spearton",
+        "name": "Lava Helmet",
+        "type": 1,
+        "description": "",
+        "price": 275,
+        "displayName": "Lava Helmet"
+    },
+    {
+        "id": 454,
+        "unit": "Spearton",
+        "name": "Lava Shield",
+        "type": 2,
+        "description": "",
+        "price": 275,
+        "displayName": "Lava Shield"
+    },
+    {
+        "id": 455,
+        "unit": "Spearton",
+        "name": "Lava Spear",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Lava Spear"
+    },
+    {
+        "id": 456,
+        "unit": "Magikill",
+        "name": "Leaf Hat",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Leaf Hat"
+    },
+    {
+        "id": 457,
+        "unit": "Monk",
+        "name": "Lava Cleric Staff",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Lava Cleric Staff"
+    },
+    {
+        "id": 458,
+        "unit": "FlyingCrossbowman",
+        "name": "Lava Wing",
+        "type": 2,
+        "description": "",
+        "price": 250,
+        "displayName": "Lava Wing"
+    },
+    {
+        "id": 459,
+        "unit": "FlyingCrossbowman",
+        "name": "Lava Allbowtross Helmet",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Lava Allbowtross Helmet"
+    },
+    {
+        "id": 460,
+        "unit": "FlyingCrossbowman",
+        "name": "Lava Sleeve",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Lava Sleeve"
+    },
+    {
+        "id": 461,
+        "unit": "Magikill",
+        "name": "Gold Staff",
+        "type": 0,
+        "description": "",
+        "price": 400,
+        "displayName": "Gold Staff"
+    },
+    {
+        "id": 462,
+        "unit": "Ninja",
+        "name": "Lava Ninja Helmet",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Lava Ninja Helmet"
+    },
+    {
+        "id": 463,
+        "unit": "Ninja",
+        "name": "Lava Ninja Katana",
+        "type": 2,
+        "description": "",
+        "price": 250,
+        "displayName": "Lava Ninja Katana"
+    },
+    {
+        "id": 464,
+        "unit": "Ninja",
+        "name": "Lava Staff",
+        "type": 0,
+        "description": "",
+        "price": 225,
+        "displayName": "Lava Staff"
+    },
+    {
+        "id": 465,
+        "unit": "Ninja",
+        "name": "Fiery Staff",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Fiery Staff"
+    },
+    {
+        "id": 466,
+        "unit": "Magikill",
+        "name": "Lava Hat",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Lava Hat"
+    },
+    {
+        "id": 467,
+        "unit": "Magikill",
+        "name": "Lava Beard",
+        "type": 2,
+        "description": "",
+        "price": 60,
+        "displayName": "Lava Beard"
+    },
+    {
+        "id": 468,
+        "unit": "Magikill",
+        "name": "Gold Beard Long",
+        "type": 2,
+        "description": "",
+        "price": 200,
+        "displayName": "Gold Beard Long"
+    },
+    {
+        "id": 469,
+        "unit": "Magikill",
+        "name": "Gold Beard",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Gold Beard"
+    },
+    {
+        "id": 470,
+        "unit": "Swordwrath",
+        "name": "Flame Sword",
+        "type": 0,
+        "description": "",
+        "price": 300,
+        "displayName": "Flame Sword"
+    },
+    {
+        "id": 471,
+        "unit": "Swordwrath",
+        "name": "Treasure Sword",
+        "type": 0,
+        "description": "",
+        "price": 750,
+        "displayName": "Treasure Sword"
+    },
+    {
+        "id": 472,
+        "unit": "EnslavedGiant",
+        "name": "Lava Bag",
+        "type": 0,
+        "description": "",
+        "price": 250,
+        "displayName": "Lava Bag"
+    },
+    {
+        "id": 473,
+        "unit": "Magikill",
+        "name": "Gold Cap",
+        "type": 1,
+        "description": "",
+        "price": 750,
+        "displayName": "Gold Cap"
+    },
+    {
+        "id": 474,
+        "unit": "Archidon",
+        "name": "Gold Quiver",
+        "type": 2,
+        "description": "",
+        "price": 300,
+        "displayName": "Gold Quiver"
+    },
+    {
+        "id": 476,
+        "unit": "EnslavedGiant",
+        "name": "Jewel Bag",
+        "type": 0,
+        "description": "",
+        "price": 600,
+        "displayName": "Jewel Bag"
+    },
+    {
+        "id": 477,
+        "unit": "ChaosMiner",
+        "name": "Purple Miner Bag",
+        "type": 2,
+        "description": "",
+        "price": 325,
+        "displayName": "Purple Miner Bag"
+    },
+    {
+        "id": 478,
+        "unit": "ChaosMiner",
+        "name": "Purple Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Purple Pickaxe"
+    },
+    {
+        "id": 479,
+        "unit": "Dead",
+        "name": "Dead Clown",
+        "type": 1,
+        "description": "",
+        "price": 500,
+        "displayName": "Dead Clown"
+    },
+    {
+        "id": 480,
+        "unit": "Knight",
+        "name": "Purple Axe",
+        "type": 0,
+        "description": "",
+        "price": 300,
+        "displayName": "Purple Axe"
+    },
+    {
+        "id": 481,
+        "unit": "Knight",
+        "name": "Purple Shield",
+        "type": 2,
+        "description": "",
+        "price": 400,
+        "displayName": "Purple Shield"
+    },
+    {
+        "id": 482,
+        "unit": "Knight",
+        "name": "Purple Helmet",
+        "type": 1,
+        "description": "",
+        "price": 225,
+        "displayName": "Purple Helmet"
+    },
+    {
+        "id": 483,
+        "unit": "Medusa",
+        "name": "Purple Medusa Cape",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Purple Medusa Cape"
+    },
+    {
+        "id": 484,
+        "unit": "SkelatalMage",
+        "name": "Purple Skeleton Head",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Purple Skeleton Head"
+    },
+    {
+        "id": 485,
+        "unit": "Wingadon",
+        "name": "red_eclipsor_helmet",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "red_eclipsor_helmet"
+    },
+    {
+        "id": 486,
+        "unit": "Bomber",
+        "name": "Round Bomb",
+        "type": 0,
+        "description": "",
+        "price": 275,
+        "displayName": "Round Bomb"
+    },
+    {
+        "id": 487,
+        "unit": "Giant",
+        "name": "Purple Club",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Purple Club"
+    },
+    {
+        "id": 488,
+        "unit": "Medusa",
+        "name": "Purple Medusa Crown",
+        "type": 2,
+        "description": "",
+        "price": 350,
+        "displayName": "Purple Medusa Crown"
+    },
+    {
+        "id": 489,
+        "unit": "Knight",
+        "name": "Flame Axe",
+        "type": 0,
+        "description": "",
+        "price": 250,
+        "displayName": "Flame Axe"
+    },
+    {
+        "id": 490,
+        "unit": "Knight",
+        "name": "Flame Shield",
+        "type": 2,
+        "description": "",
+        "price": 275,
+        "displayName": "Flame Shield"
+    },
+    {
+        "id": 491,
+        "unit": "Knight",
+        "name": "Flame Helmet",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Flame Helmet"
+    },
+    {
+        "id": 492,
+        "unit": "SkelatalMage",
+        "name": "Purple Scythe",
+        "type": 0,
+        "description": "",
+        "price": 300,
+        "displayName": "Purple Scythe"
+    },
+    {
+        "id": 493,
+        "unit": "ChaosMiner",
+        "name": "Lava Miner Bag",
+        "type": 2,
+        "description": "",
+        "price": 300,
+        "displayName": "Lava Miner Bag"
+    },
+    {
+        "id": 494,
+        "unit": "ChaosMiner",
+        "name": "Lava Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Lava Pickaxe"
+    },
+    {
+        "id": 495,
+        "unit": "Cat",
+        "name": "Purple Crawler",
+        "type": 0,
+        "description": "",
+        "price": 300,
+        "displayName": "Purple Crawler"
+    },
+    {
+        "id": 496,
+        "unit": "Archidon",
+        "name": "Gold Archer Helmet",
+        "type": 1,
+        "description": "",
+        "price": 275,
+        "displayName": "Gold Archer Helmet"
+    },
+    {
+        "id": 497,
+        "unit": "Archidon",
+        "name": "Gold Quiver 2",
+        "type": 2,
+        "description": "",
+        "price": 225,
+        "displayName": "Gold Quiver 2"
+    },
+    {
+        "id": 498,
+        "unit": "SkelatalMage",
+        "name": "Roots Evil Staff",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Roots Evil Staff"
+    },
+    {
+        "id": 499,
+        "unit": "SkelatalMage",
+        "name": "Roots Skeleton Head",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Roots Skeleton Head"
+    },
+    {
+        "id": 500,
+        "unit": "Chrome Element",
+        "name": "Space ChromeHead",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Space ChromeHead"
+    },
+    {
+        "id": 501,
+        "unit": "Spearton",
+        "name": "Stone Speartan Shield",
+        "type": 2,
+        "description": "",
+        "price": 225,
+        "displayName": "Stone Speartan Shield"
+    },
+    {
+        "id": 502,
+        "unit": "Spearton",
+        "name": "Speartan Stone Helmet",
+        "type": 1,
+        "description": "",
+        "price": 225,
+        "displayName": "Speartan Stone Helmet"
+    },
+    {
+        "id": 503,
+        "unit": "Spearton",
+        "name": "Dwarf Speartan Spear",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Dwarf Speartan Spear"
+    },
+    {
+        "id": 504,
+        "unit": "Dead",
+        "name": "Roots Dead",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Roots Dead"
+    },
+    {
+        "id": 505,
+        "unit": "Scorpion Element",
+        "name": "Cargo ScorpionDress",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Cargo ScorpionDress"
+    },
+    {
+        "id": 506,
+        "unit": "Scorpion Element",
+        "name": "Cargo ScorpionStinger",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Cargo ScorpionStinger"
+    },
+    {
+        "id": 507,
+        "unit": "Swordwrath",
+        "name": "Dwarf Sword",
+        "type": 0,
+        "description": "",
+        "price": 325,
+        "displayName": "Dwarf Sword"
+    },
+    {
+        "id": 508,
+        "unit": "Miner",
+        "name": "Wooden Cart",
+        "type": 2,
+        "description": "",
+        "price": 300,
+        "displayName": "Wooden Cart"
+    },
+    {
+        "id": 509,
+        "unit": "Miner",
+        "name": "Ancient Pickaxe 2",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Ancient Pickaxe 2"
+    },
+    {
+        "id": 510,
+        "unit": "Magikill",
+        "name": "Moon Star Hat",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Moon Star Hat"
+    },
+    {
+        "id": 511,
+        "unit": "Monk",
+        "name": "Star Wand",
+        "type": 0,
+        "description": "",
+        "price": 200,
+        "displayName": "Star Wand"
+    },
+    {
+        "id": 512,
+        "unit": "Magikill",
+        "name": "Santa Beard",
+        "type": 2,
+        "description": "",
+        "price": 75,
+        "displayName": "Santa Beard"
+    },
+    {
+        "id": 513,
+        "unit": "Tree Element",
+        "name": "leaves",
+        "type": 2,
+        "description": "",
+        "price": 250,
+        "displayName": "leaves"
+    },
+    {
+        "id": 514,
+        "unit": "Tree Element",
+        "name": "birds",
+        "type": 2,
+        "description": "",
+        "price": 350,
+        "displayName": "birds"
+    },
+    {
+        "id": 515,
+        "unit": "Swordwrath",
+        "name": "Default",
+        "type": 1,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 516,
+        "unit": "Tree Element",
+        "name": "Default",
+        "type": 2,
+        "description": "",
+        "price": 0,
+        "displayName": "Default"
+    },
+    {
+        "id": 517,
+        "unit": "Swordwrath",
+        "name": "Ice",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Ice"
+    },
+    {
+        "id": 518,
+        "unit": "Swordwrath",
+        "name": "Leaf",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Leaf"
+    },
+    {
+        "id": 519,
+        "unit": "Swordwrath",
+        "name": "Lava",
+        "type": 1,
+        "description": "",
+        "price": 325,
+        "displayName": "Lava"
+    },
+    {
+        "id": 520,
+        "unit": "EnslavedGiant",
+        "name": "Ammo Bag",
+        "type": 0,
+        "description": "",
+        "price": 350,
+        "displayName": "Ammo Bag"
+    },
+    {
+        "id": 521,
+        "unit": "Swordwrath",
+        "name": "Stone",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Stone"
+    },
+    {
+        "id": 522,
+        "unit": "Swordwrath",
+        "name": "Stone Sword",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Stone Sword"
+    },
+    {
+        "id": 523,
+        "unit": "Monk",
+        "name": "Goblet",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Goblet"
+    },
+    {
+        "id": 524,
+        "unit": "Miner Element",
+        "name": "Lava Crabbody",
+        "type": 1,
+        "description": "",
+        "price": 225,
+        "displayName": "Lava Crabbody"
+    },
+    {
+        "id": 525,
+        "unit": "Miner Element",
+        "name": "Lava Crabhead",
+        "type": 2,
+        "description": "",
+        "price": 125,
+        "displayName": "Lava Crabhead"
+    },
+    {
+        "id": 526,
+        "unit": "Lava Element",
+        "name": "Spikes",
+        "type": 2,
+        "description": "",
+        "price": 125,
+        "displayName": "Spikes"
+    },
+    {
+        "id": 527,
+        "unit": "Lava Element",
+        "name": "Spike",
+        "type": 1,
+        "description": "",
+        "price": 75,
+        "displayName": "Spike"
+    },
+    {
+        "id": 528,
+        "unit": "Lava Element",
+        "name": "Alien 2",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Alien 2"
+    },
+    {
+        "id": 529,
+        "unit": "Lava Element",
+        "name": "Spikes",
+        "type": 0,
+        "description": "",
+        "price": 125,
+        "displayName": "Spikes"
+    },
+    {
+        "id": 530,
+        "unit": "Air Element",
+        "name": "Parachute",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Parachute"
+    },
+    {
+        "id": 531,
+        "unit": "Medusa",
+        "name": "Roots Medusa Crown",
+        "type": 2,
+        "description": "",
+        "price": 50,
+        "displayName": "Roots Medusa Crown"
+    },
+    {
+        "id": 532,
+        "unit": "Medusa",
+        "name": "Roots Medusa Cape",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Roots Medusa Cape"
+    },
+    {
+        "id": 533,
+        "unit": "Knight",
+        "name": "Roots Helmet",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Roots Helmet"
+    },
+    {
+        "id": 534,
+        "unit": "Knight",
+        "name": "Roots Shield",
+        "type": 2,
+        "description": "",
+        "price": 225,
+        "displayName": "Roots Shield"
+    },
+    {
+        "id": 535,
+        "unit": "ChaosMiner",
+        "name": "Roots Miner Bag",
+        "type": 2,
+        "description": "",
+        "price": 200,
+        "displayName": "Roots Miner Bag"
+    },
+    {
+        "id": 536,
+        "unit": "ChaosMiner",
+        "name": "Roots Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Roots Pickaxe"
+    },
+    {
+        "id": 537,
+        "unit": "Wingadon",
+        "name": "roots_eclipsor_sleeve",
+        "type": 2,
+        "description": "",
+        "price": 175,
+        "displayName": "roots_eclipsor_sleeve"
+    },
+    {
+        "id": 538,
+        "unit": "Wingadon",
+        "name": "roots_eclipsor_helmet",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "roots_eclipsor_helmet"
+    },
+    {
+        "id": 539,
+        "unit": "Knight",
+        "name": "Roots Axe",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Roots Axe"
+    },
+    {
+        "id": 540,
+        "unit": "Cat",
+        "name": "Roots Crawler",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Roots Crawler"
+    },
+    {
+        "id": 541,
+        "unit": "Giant",
+        "name": "Roots Club",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Roots Club"
+    },
+    {
+        "id": 542,
+        "unit": "Ninja",
+        "name": "Stone Ninja",
+        "type": 1,
+        "description": "",
+        "price": 150,
+        "displayName": "Stone Ninja"
+    },
+    {
+        "id": 543,
+        "unit": "Ninja",
+        "name": "Stone Staff",
+        "type": 0,
+        "description": "",
+        "price": 75,
+        "displayName": "Stone Staff"
+    },
+    {
+        "id": 544,
+        "unit": "Ninja",
+        "name": "Stone Ninja Hands",
+        "type": 2,
+        "description": "",
+        "price": 50,
+        "displayName": "Stone Ninja Hands"
+    },
+    {
+        "id": 545,
+        "unit": "FlyingCrossbowman",
+        "name": "Stone Wing",
+        "type": 2,
+        "description": "",
+        "price": 175,
+        "displayName": "Stone Wing"
+    },
+    {
+        "id": 546,
+        "unit": "Archidon",
+        "name": "Stone Archer Helmet",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Stone Archer Helmet"
+    },
+    {
+        "id": 547,
+        "unit": "Archidon",
+        "name": "Stone Archer Sleeve",
+        "type": 2,
+        "description": "",
+        "price": 100,
+        "displayName": "Stone Archer Sleeve"
+    },
+    {
+        "id": 548,
+        "unit": "Miner",
+        "name": "Stone Cart",
+        "type": 2,
+        "description": "",
+        "price": 100,
+        "displayName": "Stone Cart"
+    },
+    {
+        "id": 549,
+        "unit": "Miner",
+        "name": "Stone Pickaxe",
+        "type": 0,
+        "description": "",
+        "price": 50,
+        "displayName": "Stone Pickaxe"
+    },
+    {
+        "id": 550,
+        "unit": "Archidon",
+        "name": "Ice Quiver 2",
+        "type": 2,
+        "description": "",
+        "price": 125,
+        "displayName": "Ice Quiver 2"
+    },
+    {
+        "id": 551,
+        "unit": "Magikill",
+        "name": "Stone Hat",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Stone Hat"
+    },
+    {
+        "id": 552,
+        "unit": "Magikill",
+        "name": "Stone Staff",
+        "type": 0,
+        "description": "",
+        "price": 50,
+        "displayName": "Stone Staff"
+    },
+    {
+        "id": 553,
+        "unit": "FlyingCrossbowman",
+        "name": "Stone Allbowtross Helmet",
+        "type": 1,
+        "description": "",
+        "price": 50,
+        "displayName": "Stone Allbowtross Helmet"
+    },
+    {
+        "id": 554,
+        "unit": "Chrome Element",
+        "name": "Blue Shell ChromeHead",
+        "type": 1,
+        "description": "",
+        "price": 300,
+        "displayName": "Blue Shell ChromeHead"
+    },
+    {
+        "id": 555,
+        "unit": "Fire Element",
+        "name": "Volcanic FireHat",
+        "type": 1,
+        "description": "",
+        "price": 125,
+        "displayName": "Volcanic FireHat"
+    },
+    {
+        "id": 556,
+        "unit": "Firestorm Element",
+        "name": "Lava fireburnface",
+        "type": 1,
+        "description": "",
+        "price": 350,
+        "displayName": "Lava fireburnface"
+    },
+    {
+        "id": 557,
+        "unit": "Firestorm Element",
+        "name": "phoenix bodyfireburn",
+        "type": 2,
+        "description": "",
+        "price": 125,
+        "displayName": "phoenix bodyfireburn"
+    },
+    {
+        "id": 558,
+        "unit": "Hurricane Element",
+        "name": "Chainsaw",
+        "type": 0,
+        "description": "",
+        "price": 150,
+        "displayName": "Chainsaw"
+    },
+    {
+        "id": 559,
+        "unit": "FlyingCrossbowman",
+        "name": "Metal Wing",
+        "type": 2,
+        "description": "",
+        "price": 250,
+        "displayName": "Metal Wing"
+    },
+    {
+        "id": 560,
+        "unit": "FlyingCrossbowman",
+        "name": "Metal Allbowtross Helmet",
+        "type": 1,
+        "description": "",
+        "price": 200,
+        "displayName": "Metal Allbowtross Helmet"
+    },
+    {
+        "id": 561,
+        "unit": "Swordwrath",
+        "name": "He Sword",
+        "type": 0,
+        "description": "",
+        "price": 275,
+        "displayName": "He Sword"
+    },
+    {
+        "id": 562,
+        "unit": "Archidon",
+        "name": "Ice Helmet Covered",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Ice Helmet Covered"
+    },
+    {
+        "id": 563,
+        "unit": "Magikill",
+        "name": "Pearl Staff",
+        "type": 0,
+        "description": "",
+        "price": 175,
+        "displayName": "Pearl Staff"
+    },
+    {
+        "id": 564,
+        "unit": "Wingadon",
+        "name": "Purple Sleeve",
+        "type": 2,
+        "description": "",
+        "price": 150,
+        "displayName": "Purple Sleeve"
+    },
+    {
+        "id": 565,
+        "unit": "Scorpion Element",
+        "name": "Gold ScorpionStinger",
+        "type": 0,
+        "description": "",
+        "price": 100,
+        "displayName": "Gold ScorpionStinger"
+    },
+    {
+        "id": 566,
+        "unit": "Scorpion Element",
+        "name": "Gold ScorpionDress",
+        "type": 1,
+        "description": "",
+        "price": 100,
+        "displayName": "Gold ScorpionDress"
+    },
+    {
+        "id": 567,
+        "unit": "Archidon",
+        "name": "Lava Archer Helmet",
+        "type": 1,
+        "description": "",
+        "price": 175,
+        "displayName": "Lava Archer Helmet"
+    }
+]
